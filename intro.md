@@ -9,3 +9,4 @@ Adam and Tim decided they wanted to find out if the treasure was real. They coul
 ## what do you want to do next?
 - [Take a boat to the island](island.md)
 - [Swim to the island](swim.md)
+- [Swim under the ocean to explore the sunk pirate ship](pirate.md)
