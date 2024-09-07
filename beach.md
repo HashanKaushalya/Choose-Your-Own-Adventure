@@ -1,0 +1,1 @@
+Adam and Tim decided to explore the beach first before venturing deeper into the island. The sand was soft under their feet, and the sound of the waves crashing against the shore was soothing. They wandered along the beach, looking for any signs of treasure that might have washed up from the pirate shipwreck.
