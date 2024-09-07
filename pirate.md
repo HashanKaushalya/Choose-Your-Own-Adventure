@@ -7,7 +7,12 @@ Suddenly, something shiny caught Adam’s eye. He pointed excitedly toward the s
 
 "Do you think that’s… the treasure?" Tim asked, his voice muffled by the water, but his eyes wide with excitement.
 
-They had 2 choices to continue thier adventure:
+They had few choices to continue thier adventure:
 
 - [Leave the treaure in the ship](leave.md)
 - [Take the treasure with them to look what's the truth?](take.md)
+- [Talk about the treasure box to uncle Patrick and come back tomorrow](tomorrow.md)
+
+Or you can:
+- [Swim back to the Lighthouse](intro.md)
+
